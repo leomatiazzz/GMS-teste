@@ -14,7 +14,7 @@ describe("US-012-Funcionalidade: Cadastro de membros", () => {
     );
   });
 
-  it.only("Deve validar mensagem de erro com o campo Nome inválido", () => {
+  it("Deve validar mensagem de erro com o campo Nome inválido", () => {
     cy.preencherCadastro(
       "Leo20",
       "Matias",
