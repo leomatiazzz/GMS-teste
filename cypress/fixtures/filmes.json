@@ -1,0 +1,52 @@
+[
+  {
+    "titulo": "Oppenheimer",
+    "ano": 2023,
+    "descricao": "O filme biográfico de Christopher Nolan segue a vida de J. Robert Oppenheimer, o físico que liderou o Projeto Manhattan e ajudou a desenvolver a primeira bomba atômica durante a Segunda Guerra Mundial."
+  },
+  {
+    "titulo": "Barbie",
+    "ano": 2023,
+    "descricao": "Uma sátira moderna que segue Barbie, uma boneca que vive em Barbieland, enquanto embarca em uma jornada de autodescoberta no mundo real, desafiando os estereótipos e expectativas impostas a ela."
+  },
+  {
+    "titulo": "Guardians of the Galaxy Vol. 3",
+    "ano": 2023,
+    "descricao": "Os Guardiões enfrentam novos desafios enquanto tentam salvar um de seus próprios membros, Rocket, e lidam com as consequências de suas ações passadas."
+  },
+  {
+    "titulo": "Mission: Impossible",
+    "ano": 2023,
+    "descricao": "Ethan Hunt e sua equipe enfrentam uma ameaça global enquanto tentam impedir que uma poderosa inteligência artificial caia nas mãos erradas."
+  },
+  {
+    "titulo": "The Super Mario Bros. Movie",
+    "ano": 2023,
+    "descricao": "Mario e Luigi, dois encanadores italianos, são transportados para um mundo mágico onde devem salvar a Princesa Peach e derrotar Bowser para restaurar a paz no Reino dos Cogumelos."
+  },
+  {
+    "titulo": "The Matrix",
+    "ano": 1999,
+    "descricao": "Em um futuro distópico, um programador de computador descobre que a realidade que conhece é uma simulação criada por máquinas para subjugar a humanidade."
+  },
+  {
+    "titulo": "Fight Club",
+    "ano": 1999,
+    "descricao": "Um homem insatisfeito com sua vida cria um clube secreto onde homens podem expressar sua raiva e frustração de maneira violenta, levando a consequências inesperadas."
+  },
+  {
+    "titulo": "The Sixth Sense",
+    "ano": 1999,
+    "descricao": "Um psicólogo infantil tenta ajudar um garoto que afirma ver pessoas mortas, mas a verdade por trás de suas afirmações é mais surpreendente do que ele imagina."
+  },
+  {
+    "titulo": "Notting Hill",
+    "ano": 1999,
+    "descricao": "Um modesto livreiro londrino tem sua vida virada de cabeça para baixo quando conhece uma famosa atriz de Hollywood em sua loja."
+  },
+  {
+    "titulo": "The Blair Witch Project",
+    "ano": 1999,
+    "descricao": "Três estudantes de cinema se perdem na floresta enquanto filmam um documentário sobre uma lenda local, enfrentando forças misteriosas."
+  }
+]
