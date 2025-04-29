@@ -1,0 +1,6 @@
+[submodule "GoldenMovieStudio"]
+	path = GoldenMovieStudio
+	url = https://github.com/leomatiazzz/GoldenMovieStudio.git
+[submodule "Servidor-GMS"]
+	path = Servidor-GMS
+	url = https://github.com/leomatiazzz/Servidor-GMS.git
